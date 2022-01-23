@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/johnpalenchar/Documents/GitHub/lab1/build",
+  "command": "/opt/homebrew/bin/g++-11   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14 -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/johnpalenchar/Documents/GitHub/lab1/main.cpp",
+  "file": "/Users/johnpalenchar/Documents/GitHub/lab1/main.cpp"
+},
+{
+  "directory": "/Users/johnpalenchar/Documents/GitHub/lab1/build",
+  "command": "/opt/homebrew/bin/g++-11   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14 -o CMakeFiles/untitled.dir/Vehicle.cpp.o -c /Users/johnpalenchar/Documents/GitHub/lab1/Vehicle.cpp",
+  "file": "/Users/johnpalenchar/Documents/GitHub/lab1/Vehicle.cpp"
+},
+{
+  "directory": "/Users/johnpalenchar/Documents/GitHub/lab1/build",
+  "command": "/opt/homebrew/bin/g++-11   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14 -o CMakeFiles/untitled.dir/Showroom.cpp.o -c /Users/johnpalenchar/Documents/GitHub/lab1/Showroom.cpp",
+  "file": "/Users/johnpalenchar/Documents/GitHub/lab1/Showroom.cpp"
+},
+{
+  "directory": "/Users/johnpalenchar/Documents/GitHub/lab1/build",
+  "command": "/opt/homebrew/bin/g++-11   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14 -o CMakeFiles/untitled.dir/Dealership.cpp.o -c /Users/johnpalenchar/Documents/GitHub/lab1/Dealership.cpp",
+  "file": "/Users/johnpalenchar/Documents/GitHub/lab1/Dealership.cpp"
+}
+]
